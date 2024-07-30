@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "a3afae8a37ece91d",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bbb0a8ba7c9e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d01863da77b348be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашний сервачок.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f03fae17b36b4c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашний сервачок.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b186c5dc21a1c1da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашний сервачок.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0b5ae1d5e5991db",
+    "type": "split",
+    "children": [
+      {
+        "id": "94bcd46f18ef9990",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b81385fc7fae2f30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "362a4b7624b32fc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "488c1e69e725ffaa",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b186c5dc21a1c1da",
+  "lastOpenFiles": [
+    "README.md",
+    "miniTools.md",
+    "Домашний сервачок.md",
+    "фывафыва.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
