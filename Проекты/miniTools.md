@@ -7,4 +7,3 @@
 - https://devutils.com/
 	- Богаче функционалом
 	- macOs only
-
