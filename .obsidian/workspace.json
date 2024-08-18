@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекты/miniTools.md",
+                "file": "Данные/Игровой ПК.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,13 +131,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26c8e47847f9fd7b",
+  "active": "b81385fc7fae2f30",
   "lastOpenFiles": [
-    "Проекты/Домашний сервачок.md",
-    "Проекты/miniTools.md",
+    "README.md",
     "Данные/Домашний сервер.md",
     "Данные/Игровой ПК.md",
-    "README.md",
+    "Проекты/miniTools.md",
+    "Проекты/Домашний сервачок.md",
     "Данные",
     "Проекты",
     "фывафыва.md",
