@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Данные/Игровой ПК.md",
+                "file": "Проекты/Домашний сервачок.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,13 +131,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b81385fc7fae2f30",
+  "active": "26c8e47847f9fd7b",
   "lastOpenFiles": [
     "README.md",
+    "Проекты/Домашний сервачок.md",
     "Данные/Домашний сервер.md",
     "Данные/Игровой ПК.md",
     "Проекты/miniTools.md",
-    "Проекты/Домашний сервачок.md",
     "Данные",
     "Проекты",
     "фывафыва.md",
